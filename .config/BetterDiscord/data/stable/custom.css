@@ -1,0 +1,50 @@
+/* .background {
+  background-image: https://media.discordapp.net/attachments/635625973764849684/968218743899566150/l4bcywqfdhv81.jpg?width=1161&height=649
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+// Background Blur using backdrop-filter
+.blur {
+  background: rgba(255, 255, 255, 0.2); // Make sure this color has an opacity of less than 1
+  backdrop-filter: blur(8px); // This be the blur
+  height: 100vh;
+  width: 50%;
+} */
+
+/* body{
+  background-image: url("/home/kurogue/Wallpapers/Guts.jpg");
+  background: url(https://cdn.discordapp.com/attachments/635625973764849684/968218743899566150/l4bcywqfdhv81.jpg);
+  background-position: center center;
+  background-size: 100% 100%;
+} */
+
+.nameTag-sc-gpq.canCopy-IgTwyV{
+    transition: 0.5s ease;
+    max-width: 0%;
+    margin-left: -3px;
+    position: relative;
+}
+.directionRow-2Iu2A9 .button-12Fmur{
+    transition: 0.5s ease;
+    width: 65px !important;
+}
+.avatarWrapper-1B9FTW:hover ~ .nameTag-sc-gpq.canCopy-IgTwyV{
+    max-width: 100% !important;
+}
+.avatarWrapper-1B9FTW:hover ~ .directionRow-2Iu2A9 .button-12Fmur{
+    width: 32px !important;
+}
+.nameTag-sc-gpq.canCopy-IgTwyV:hover + .directionRow-2Iu2A9 .button-12Fmur{
+    width: 32px !important;
+}
+.nameTag-sc-gpq.canCopy-IgTwyV:hover{
+    max-width: 100% !important;
+}
+
+.timestamp-p1Df1m {
+  display: none;
+}

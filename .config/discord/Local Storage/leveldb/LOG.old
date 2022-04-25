@@ -1,0 +1,6 @@
+2022/04/25-17:28:49.132 306 Reusing MANIFEST /home/kurogue/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/04/25-17:28:49.132 306 Recovering log #399
+2022/04/25-17:28:49.133 306 Reusing old log /home/kurogue/.config/discord/Local Storage/leveldb/000399.log 
+2022/04/25-17:38:51.565 57d Level-0 table #403: started
+2022/04/25-17:38:51.572 57d Level-0 table #403: 13992 bytes OK
+2022/04/25-17:38:51.575 57d Delete type=0 #399

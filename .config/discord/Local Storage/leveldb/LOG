@@ -1,0 +1,15 @@
+2022/04/25-20:41:52.386 7c6 Reusing MANIFEST /home/kurogue/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/04/25-20:41:52.386 7c6 Recovering log #402
+2022/04/25-20:41:52.431 7c6 Reusing old log /home/kurogue/.config/discord/Local Storage/leveldb/000402.log 
+2022/04/25-20:47:24.149 7c5 Level-0 table #406: started
+2022/04/25-20:47:24.153 7c5 Level-0 table #406: 30219 bytes OK
+2022/04/25-20:47:24.166 7c5 Delete type=0 #402
+2022/04/25-20:47:24.166 7c5 Compacting 4@0 + 1@1 files
+2022/04/25-20:47:24.179 7c5 Generated table #407@0: 139 keys, 803007 bytes
+2022/04/25-20:47:24.179 7c5 Compacted 4@0 + 1@1 files => 803007 bytes
+2022/04/25-20:47:24.182 7c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/25-20:47:24.182 7c5 Delete type=2 #395
+2022/04/25-20:47:24.182 7c5 Delete type=2 #397
+2022/04/25-20:47:24.182 7c5 Delete type=2 #403
+2022/04/25-20:47:24.182 7c5 Delete type=2 #406
+2022/04/25-20:47:24.182 7c5 Delete type=2 #400
