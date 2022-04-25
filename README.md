@@ -8,3 +8,4 @@ This is built on a Live USB so please proceed with caution as some features and 
 
 ![Guts and His Darkness](/home/kurogue/dotfiles/Wallpapers/Guts.jpg)
 # Berserk-Rice
+# Berserk-Rice
